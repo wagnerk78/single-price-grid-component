@@ -5,11 +5,9 @@
     font-family: 'Karla', sans-serif;
     
 }
-
 body{
     background-color: 	#e5eff5;
 }
-
 section {
     width: 34vw;
     height: 25vh;
@@ -17,18 +15,14 @@ section {
     margin: 200px 0px 0px 500px;
     border-radius: 10px 10px 0px 0px;
 }
-
 #green {
     display: flex;
     margin: 0px 0px 0px 500px;
 }
-
 #price {
     display: flex;
     align-items: center;
 }
-
-
 #box-left {
     background-color:	#2ab2af;
     width: 17vw;
@@ -41,20 +35,17 @@ section {
     height: 28vh;
     border-radius: 0px 0px 10px 0px;
 }
-
 #text-1 {
     color: #2ab2af;
     margin: 30px 0px 0px 40px;
     padding-top: 40px ;
     font-size: 20px;
 }
-
 #text-2 {
     color: 	#c0df34;
     margin: 0px 40px;
     font-size: 15px;
 }
-
 #text-3 {
     color: #98a6bd;
     width: 450px;
@@ -62,7 +53,6 @@ section {
     line-height: 2;
     font-size: 13px;
 }
-
 .text-4, .text-5 {
     color: 	#e5eff5;
 }
